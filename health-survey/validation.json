@@ -1,0 +1,38 @@
+{
+  "rows": 3999,
+  "variables": {
+    "HLTHPLN1": {
+      "valid_responses": 3988,
+      "missing_or_nonresponse": 11,
+      "valid_codes": [
+        1,
+        2
+      ]
+    },
+    "ASTHMA3": {
+      "valid_responses": 3987,
+      "missing_or_nonresponse": 12,
+      "valid_codes": [
+        1,
+        2
+      ]
+    },
+    "SMOKE100": {
+      "valid_responses": 3850,
+      "missing_or_nonresponse": 149,
+      "valid_codes": [
+        1,
+        2
+      ]
+    },
+    "SMOKDAY2": {
+      "valid_responses": 1679,
+      "missing_or_nonresponse": 2320,
+      "valid_codes": [
+        1,
+        2,
+        3
+      ]
+    }
+  }
+}
